@@ -1,0 +1,18 @@
+
+body{
+    background-color: #EDEDED;
+  }
+  .section{
+    padding-top: 4.5vw;
+    padding-bottom: 4.5vw;
+  }
+  
+  #me {
+    width:300px;
+  }
+
+  #preview {
+      height: 300px;
+      width: 415px;
+  }
+
